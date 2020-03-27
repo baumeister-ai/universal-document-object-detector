@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# apple
+.DS_Store
+# pull:
+datasets/
 # C extensions
 *.so
 
